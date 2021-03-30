@@ -5,6 +5,7 @@
 # 🌱 Current projects
 - My personal website (coming soon™)
 - Learning game development (work in progress)
+- Looking into a Web Scraper/Bot project
 # 👀 Past projects
 - Can be found underneath 👇
 # 📫 How to reach me
