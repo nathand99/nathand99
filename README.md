@@ -3,7 +3,7 @@
 - I'm interested in Security and AI
 - Hobbies include video games 🕹️, sports 🏏🏉⛳🎾 and thinking of something to create here on GitHub 💻
 # 🌱 Current projects
-- My personal website (coming soon™)
+- My personal website: HAS ARRIVED! See version 1.0 at: https://ndriscoll.herokuapp.com/ or https://www.nathandriscoll.com/
 - Learning game development (work in progress)
 - Looking into a Web Scraper/Bot project
 # 👀 Past projects
