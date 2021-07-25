@@ -6,6 +6,7 @@
 - My personal website: HAS ARRIVED! See version 1.0 at: https://ndriscoll.herokuapp.com/ or http://www.nathandriscoll.com/
 - Learning game development (work in progress)
 - Looking into a Web Scraper/Bot project
+- My university thesis: using Ripple Down Rules for Explainable AI
 # 👀 Past projects
 - Can be found underneath 👇
 # 📫 How to reach me
