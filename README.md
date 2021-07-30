@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nathan
 - Currently styding Software Engineering at UNSW
-- I'm interested in Security and AI
+- Interested in Security and AI
 - Hobbies include video games 🕹️, sports 🏏🏉⛳🎾 and thinking of something to create here on GitHub 💻
 # 🌱 Current projects
 - My personal website: HAS ARRIVED! See version 1.0 at: https://ndriscoll.herokuapp.com/ or http://www.nathandriscoll.com/
