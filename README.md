@@ -1,15 +1,15 @@
-# 👋 Hi, I’m Nathan
+# Hi, I’m Nathan
 - Currently styding Software Engineering at UNSW
 - Interested in Security and AI
 - Hobbies include video games, sports and thinking of something to create here on GitHub
-# 🌱 Current projects
+# Current projects
 - My personal website: HAS ARRIVED! See version 1.0 at: https://ndriscoll.herokuapp.com/ or http://www.nathandriscoll.com/
 - Learning game development (work in progress)
 - Looking into a Web Scraper/Bot project
 - My university thesis: using Ripple Down Rules for Explainable AI
-# 👀 Past projects
+# Past projects
 - Can be found underneath 👇
-# 📫 How to reach me
+# How to reach me
 - Email: nathanjdriscoll1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nathan-driscoll-8720b4165/
 <!---
